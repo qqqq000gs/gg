@@ -1,5 +1,4 @@
-# Copyright (C) 2021 By VeezMusicProject
-# تم التعريب بواسطه سورس ايــثــون بموجب حقوق النشر تخمط اذكر المصدر لاهينك 
+# Copyright (C) 2021 By VeezMusicProject    
 from driver.queues import QUEUE
 from pyrogram import Client, filters
 from pyrogram.types import CallbackQuery, InlineKeyboardButton, InlineKeyboardMarkup
@@ -40,12 +39,12 @@ async def cbstart(_, query: CallbackQuery):
                         "‹قناة السورس›", url=f"https://t.me/{GROUP_SUPPORT}"
                     ),
                     InlineKeyboardButton(
-                        "‹قناة البوت›", url=f"https://t.me/EITHON1"
+                        "‹قناة البوت›", url=f"https://t.me/X_8_00"
                     ),
                 ],
                 [
                     InlineKeyboardButton(
-                        "‹💰 شراء نسخة مدفوعة›", url="https://t.me/TTTLL0"
+                        "‹💰 شراء نسخة مدفوعة›", url="https://t.me/N_J_9"
                     )
                 ],
             ]
