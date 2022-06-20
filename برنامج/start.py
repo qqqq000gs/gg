@@ -75,6 +75,10 @@ async def start_(client: Client, message: Message):
                 [
                     InlineKeyboardButton(
                         "‹قناة السورس›", url=f"https://t.me/X_8_00"
+                       InlineKeyboardButton(
+                        "‹تم كتابه الملفات وتعديلها من قبل›", url=f"https://t.me/N_J_9"
+                    ),
+
                     ),
                     InlineKeyboardButton(
                         "‹قناة البوت›", url=f"https://t.me/{UPDATES_CHANNEL}"
